@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=kumaarrakeysh&color=dc143c)
 ---
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-kumar-47685924?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
 
 # 📊 GitHub Stats:
 
