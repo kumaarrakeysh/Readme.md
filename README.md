@@ -7,7 +7,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-kumar-47685924?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-kumar-47685924?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram)]([https://www.linkedin.com/in/rakesh-kumar-47685924?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](https://www.instagram.com/kumaar_rakeysh?igsh=aTRmMzAwMmhra3c3)) 
 
 
 ## 🫆Connect me on
