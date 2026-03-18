@@ -3,8 +3,24 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-kumar-47685924?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
+
+
+## 🫆Connect me on
+
 <a href="https://instagram.com/kmr_mithlesh" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+    
+    ## 👨‍💻 About Me
+
+- 🔭 Currently persuing coding   
+- 💡 Passionate about clean code, scalable architecture, and elegant design patterns  
+- 🚀 Exploring the world of **AI**, experimenting with intelligent applications  
+- 💬 Ask me about **Financial Analysis**
+
+<br/>
+
+🌿 Outside the terminal:
+- 🏞️ Hiking scenic trails  
 
 # 📊 GitHub Stats:
 
@@ -14,26 +30,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kumaarrakeysh&theme=matrix&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<!-- Profile Header -->
-<h1 align="center">Hi, its me:~ Kumaar Rakeysh 👋</h1>
-<h3 align="center">💻 Full Stack Developer | Ruby on Rails & React | Open Source Contributor | AI Enthusiast</h3>
 
-
-## 👨‍💻 About Me
-
-- 🔭 Currently building healthcare solutions at **@eKincare**  
-- 💡 Passionate about clean code, scalable architecture, and elegant design patterns  
-- 🚀 Exploring the world of **AI**, experimenting with intelligent applications  
-- 💬 Ask me about **Rails, React, Git workflows, or API design**
-
-<br/>
-
-🌿 Outside the terminal:
-- 🏞️ Hiking scenic trails  
-- 🏊‍♂️ Swimming for fun & fitness  
-- 🥾 Trekking into the wild  
 
 ### 🛠 Languages & Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -43,7 +40,8 @@
 
 ### 🧱 Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🛠 Tools & 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -52,17 +50,16 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-
-## 🚀 Top Contributed Repositories
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Kumaarrakeysh&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
-
-
 ## 😀 Jokes Apart
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <p/>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- Profile Header -->
+<h1 align="center">Hi, its me:~ Kumaar Rakeysh 👋</h1>
+<h3 align="center">💻 Full Stack Developer | Ruby on Rails & React | Open Source Contributor | AI Enthusiast</h3>
 
 # 💻 Tech Stack:
 
