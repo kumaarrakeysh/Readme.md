@@ -6,15 +6,10 @@
 <h3 align="center">💻  AI Enthusiast</h3>
 
 
-## 🌐 Socials:
+## 🌐 Connect me on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-kumar-47685924?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/kumaar_rakeysh?igsh=aTRmMzAwMmhra3c3)
 
-
-## 🫆Connect me on
-
-<a href="https://www.instagram.com/kumaar_rakeysh?igsh=aTRmMzAwMmhra3c3" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
     
  
  ## 👨‍💻 About Me
