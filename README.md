@@ -8,9 +8,10 @@
 ## 🫆Connect me on
 
 <a href="https://instagram.com/kmr_mithlesh" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
     
-    ## 👨‍💻 About Me
+ 
+ ## 👨‍💻 About Me
 
 - 🔭 Currently persuing coding   
 - 💡 Passionate about clean code, scalable architecture, and elegant design patterns  
@@ -22,26 +23,31 @@
 🌿 Outside the terminal:
 - 🏞️ Hiking scenic trails  
 
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kumaarrakeysh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kumaarrakeysh&theme=dark&hide_border=false&&hide=Tex&include_all_commits=true&count_private=true&layout=compact)
 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kumaarrakeysh&theme=matrix&no-frame=true&no-bg=false&margin-w=4)
-
 
 
 ### 🛠 Languages & Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+
 ### ☁️ DevOps & Infra
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 ### 🧱 Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ### 🛠 Tools & 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -55,11 +61,13 @@
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <p/>
 
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <!-- Profile Header -->
 <h1 align="center">Hi, its me:~ Kumaar Rakeysh 👋</h1>
 <h3 align="center">💻 Full Stack Developer | Ruby on Rails & React | Open Source Contributor | AI Enthusiast</h3>
+
 
 # 💻 Tech Stack:
 
