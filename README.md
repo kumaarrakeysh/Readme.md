@@ -35,13 +35,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kumaarrakeysh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kumaarrakeysh&theme=dark&hide_border=false&&hide=Tex&include_all_commits=true&count_private=true&layout=compact)
 
-## 🛠️ Tools
-
-```bash
-💻 Python | SQL | Streamlit
-📊 Data Analytics | Dashboarding
-⚙️ Automation | Process Optimization
-🔧 Git | GitHub | APIs
 
 
 ## 🏆 GitHub Trophies
